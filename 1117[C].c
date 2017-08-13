@@ -22,7 +22,7 @@ int main(){
     }
 
     media = ((nota1+nota2)/2);
-    printf("media = %.2f", media);
+    printf("media = %.2f\n", media);
 
     return 0;
 }
